@@ -14,6 +14,7 @@ These documents are intended to be human-readable, versioned, and easily referen
 | [limited-hardware-warranty.md](./limited-hardware-warranty.md) | 12‑month limited hardware warranty; DOA handling; exclusions | Aligns with Terms & secure‑boot firmware rules |
 | [rma-and-repairs-policy.md](./rma-and-repairs-policy.md) | RMA request, shipping, inspection, and out‑of‑warranty repairs | Use help@igorbox.com to initiate |
 | [igorbox-msa.md](./igorbox-msa.md) | Master Services Agreement for enterprise purchases/SOWs | Includes confidentiality, fees, notices, export control, force majeure |
+| (nda-agreement.md)(./nda-aggrement.md) | The Standard NDA agreement | Early access to new upcoming features requires that all parties are under NDA |
 
 ### Versioning & Effective Dates
 

@@ -74,7 +74,7 @@ We may disclose deidentified or aggregated data that does not identify you. We u
 
 ## 5. Data Retention
 
-We retain personal information only as long as necessary to fulfill the purposes described in this Privacy Policy, unless a longer retention period is required by law. Retention periods vary by category (e.g., account records for as long as you maintain an account; transaction records for up to 7 years for tax/accounting; telemetry logs for up to 24 months), after which we delete or deidentify data.
+We retain personal information only as long as necessary to fulfill the purposes described in this Privacy Policy, unless a longer retention period is required by law. Retention periods vary by category (e.g., account records for as long as you maintain an account; transaction records for up to 7 years for tax/accounting; telemetry logs for up to 24 months), after which we delete or deidentify data. If you close your account or request deletion, we delete active copies within 30 days and purge backups on a rolling schedule within 90 days thereafter. We may retain minimal logs and records as required for security, fraud prevention, and legal obligations.
 
 ---
 
@@ -95,13 +95,13 @@ Depending on your jurisdiction (e.g., GDPR, CCPA), you may have rights to:
 
 To exercise these rights, contact us at **help@igorbox.com**.
 
-You may also submit a request via web form if provided on our site. We will verify your request and respond within the timeframes required by applicable law (e.g., 45 days for California). If we deny your request, you may appeal by replying to our response and stating “Appeal.” Authorized agents may submit requests with valid authorization and identity verification.
+You may also submit a request via web form if provided on our site. We will verify your request and respond within the timeframes required by applicable law (e.g., 45 days for California). If we deny your request, you may appeal by replying to our response and stating “Appeal.” Authorized agents may submit requests with valid authorization and identity verification. Where permitted by law, we may refuse or charge a reasonable fee for requests that are manifestly unfounded, excessive, or repetitive. We honor Global Privacy Control (GPC) signals as a valid opt‑out of sale/sharing and targeted advertising where applicable.
 
 ---
 
 ## 8. International Transfers
 
-If you access our Services from outside the United States, your information may be transferred and processed in the United States, where data protection laws may differ from your country. Where required, we use appropriate safeguards such as Standard Contractual Clauses for transfers from the EEA/UK.
+As of the Effective Date, we host and store personal information in the United States and do not maintain production data storage in other countries. If you access our Services from outside the United States, your information may be transferred and processed in the United States, where data protection laws may differ from your country. Where required, we use appropriate safeguards such as Standard Contractual Clauses for transfers from the EEA/UK (and the UK Addendum, as applicable).
 
 ---
 

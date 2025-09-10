@@ -14,7 +14,11 @@ These documents are intended to be human-readable, versioned, and easily referen
 | [limited-hardware-warranty.md](./limited-hardware-warranty.md) | 12‑month limited hardware warranty; DOA handling; exclusions | Aligns with Terms & secure‑boot firmware rules |
 | [rma-and-repairs-policy.md](./rma-and-repairs-policy.md) | RMA request, shipping, inspection, and out‑of‑warranty repairs | Use help@igorbox.com to initiate |
 | [igorbox-msa.md](./igorbox-msa.md) | Master Services Agreement for enterprise purchases/SOWs | Includes confidentiality, fees, notices, export control, force majeure |
-| (nda-agreement.md)(./nda-aggrement.md) | The Standard NDA agreement | Early access to new upcoming features requires that all parties are under NDA |
+| [nda-agreement.md](./nda-agreement.md) | Standard NDA agreement | Early access to new features may require all parties to be under NDA |
+| [cookie-policy.md](./cookie-policy.md) | Cookie usage, consent, and GPC handling | Link from site footer cookie banner/preferences |
+| [data-processing-addendum.md](./data-processing-addendum.md) | DPA and annexes (TOMs, subprocessors) | Reference from MSA/enterprise orders |
+| [security-responsible-disclosure.md](./security-responsible-disclosure.md) | Security & Responsible Disclosure Policy | security@igorbox.com for reports |
+| [dmca-policy.md](./dmca-policy.md) | DMCA Takedown Policy & Agent | dmca@igorbox.com |
 
 ### Versioning & Effective Dates
 
@@ -35,9 +39,4 @@ These documents reflect IgorBox’s policies and terms. They are not legal advic
 ### Roadmap (optional additions)
 
 - Service Level Agreement (SLA)
-- Data Processing Addendum (DPA) + Subprocessor list
-- Security/Responsible Disclosure Policy
-- Cookie Policy
-- DMCA Takedown Policy & Agent
-
 

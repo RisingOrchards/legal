@@ -1,6 +1,6 @@
 # Master Services Agreement (MSA)
 
-**Effective Date:** September 1, 2025
+**Effective Date:** April 6, 2026
 **Parties:** This Master Services Agreement (“Agreement”) is entered into between **Rising Orchards LLC**, a Florida limited liability company doing business as **IgorBox** (“Company,” “we,” “our,” or “us”), and the undersigned customer (“Customer,” “you,” or “your”).
 
 ---
@@ -42,6 +42,16 @@ This Agreement governs the purchase, licensing, and use of:
 - Circumvent licensing, encryption, or authentication mechanisms.
 - Use IgorBox products in high-risk, safety-critical environments without explicit written consent.
 
+  3.4 **Non-Safety-Critical Use** – The products are not designed, manufactured, or intended for use in:
+
+- Life safety systems
+- Emergency systems
+- Medical devices
+- Critical infrastructure
+- Any application where failure could result in death, personal injury, or severe property damage
+
+Customer agrees not to use the products in such applications without prior written approval from Rising Orchards, LLC.
+
 ---
 
 ## 4. Intellectual Property
@@ -55,7 +65,28 @@ All rights, title, and interest in and to:
 
 ---
 
-## 5. Orders, Delivery, and Acceptance
+## 5. Installation, Wiring, and Compliance Responsibility
+
+Customer is solely responsible for the proper installation, configuration, and use of all hardware products. This includes, but is not limited to:
+
+- All electrical wiring and connections
+- Compliance with applicable local, state, and national electrical codes and regulations
+- Use of appropriate power sources, fusing, and safety mechanisms
+- Ensuring that installation is performed by qualified personnel where required
+
+Rising Orchards, LLC (d/b/a IgorBox) is not responsible for any damage, injury, or loss resulting from improper installation, wiring, configuration, or use of the products.
+
+---
+
+## 6. Assumption of Risk
+
+Customer acknowledges that the products may interface with electrical systems, mechanical systems, and other equipment that carry inherent risks, including but not limited to property damage, equipment failure, or personal injury.
+
+By using the products, Customer assumes all risks associated with such use, except to the extent caused directly by a proven defect in the product itself.
+
+---
+
+## 7. Orders, Delivery, and Acceptance
 
 - Orders are placed via executed SOWs, purchase orders, or online transactions.
 - Title to hardware passes upon delivery, but IgorBox retains intellectual property rights in firmware and software.
@@ -63,21 +94,32 @@ All rights, title, and interest in and to:
 
 ---
 
-## 6. Warranties
+## 8. Warranties
 
-6.1 **Hardware Warranty** – IgorBox warrants that hardware will be free from defects in materials and workmanship for **12 months** from delivery.
+8.1 **Hardware Warranty** – IgorBox warrants that hardware will be free from defects in materials and workmanship for **12 months** from delivery.
 
-6.2 **Firmware/Software Warranty** – Provided “as is” without warranties of any kind, except that official IgorBox firmware will function on compatible IgorBox hardware as documented.
+8.2 **Firmware/Software Warranty** – Software, firmware, and cloud-based services are provided “as is” and “as available” without warranties of any kind, except that official IgorBox firmware will function on compatible IgorBox hardware as documented. To the maximum extent permitted by law, Rising Orchards disclaims all implied warranties for software and services, including but not limited to merchantability, fitness for a particular purpose, and non-infringement.
 
-6.3 **Exclusions** – Warranty does not cover damage caused by:
+8.3 **Exclusions** – Warranty does not cover damage caused by:
 
-- Unauthorized modifications.
+- Unauthorized modifications or repairs.
 - Installation of non-IgorBox firmware.
 - Improper use or environmental conditions.
+- Use outside of documented specifications.
+- Integration with incompatible or unsafe systems.
+
+  8.4 **Misuse and Unauthorized Modifications** – Any of the following will void all warranties and may limit or eliminate liability:
+
+- Use outside of documented specifications
+- Unauthorized modifications or repairs
+- Improper environmental conditions (temperature, humidity, dust, vibration, etc.)
+- Integration with incompatible or unsafe systems
+
+Rising Orchards shall not be responsible for any resulting damage, injury, or loss.
 
 ---
 
-## 7. Support and Updates
+## 9. Support and Updates
 
 - Firmware updates will be digitally signed and delivered via secure channels.
 - IgorBox may discontinue updates for legacy hardware after 2 years from purchase.
@@ -85,23 +127,36 @@ All rights, title, and interest in and to:
 
 ---
 
-## 8. Data Usage and AI
+## 10. Data Usage and AI
 
 - IgorBox may collect anonymized or aggregated device telemetry for diagnostics, performance improvements, and AI model training.
 - No personally identifiable information will be used for AI training without explicit consent.
 
 ---
 
-## 9. Limitation of Liability
+## 11. Exclusive Remedy
 
-To the fullest extent permitted by law:
+To the maximum extent permitted by law, Customer’s sole and exclusive remedy for any claim arising out of or relating to the products or services shall be limited to one of the following, at Rising Orchards’ sole discretion:
 
-- IgorBox is not liable for indirect, incidental, or consequential damages.
-- IgorBox’s maximum liability shall not exceed the amount paid for the affected product or service.
+- Repair of the defective product
+- Replacement of the defective product
+- Refund of the amount actually paid for the product or service
+
+No other remedies, damages, or claims shall be available.
 
 ---
 
-## 10. Termination
+## 12. Limitation of Liability
+
+To the fullest extent permitted by law:
+
+- IgorBox is not liable for indirect, incidental, special, punitive, or consequential damages, including but not limited to loss of profits, data, or business opportunity.
+- IgorBox’s maximum liability shall not exceed the amount paid by Customer for the specific product or service giving rise to the claim.
+- Any limitation of liability applies on a per-claim basis and regardless of the number of claims or legal theories asserted.
+
+---
+
+## 13. Termination
 
 This Agreement may be terminated by either party for:
 
@@ -115,19 +170,19 @@ Upon termination:
 
 ---
 
-## 11. Governing Law
+## 14. Governing Law
 
 This Agreement is governed by the laws of the State of **Florida, USA**, without regard to its conflict of law provisions.
 
 ---
 
-## 12. Entire Agreement
+## 15. Entire Agreement
 
 This Agreement, together with any SOWs, order forms, and incorporated documents, constitutes the entire understanding between the parties and supersedes all prior agreements.
 
 ---
 
-## 13. Fees, Invoicing, and Taxes
+## 16. Fees, Invoicing, and Taxes
 
 - Fees are set forth in the applicable order form or SOW. Unless otherwise stated, all fees are due net 30 days from invoice date.
 - Late payments may accrue a finance charge of 1.5% per month (or the maximum allowed by law, if lower) and may result in suspension of Services until all amounts are paid.
@@ -135,7 +190,7 @@ This Agreement, together with any SOWs, order forms, and incorporated documents,
 
 ---
 
-## 14. Confidentiality
+## 17. Confidentiality
 
 - “Confidential Information” means non-public information disclosed by a party that is marked or otherwise reasonably understood to be confidential, including product roadmaps, pricing, source code, security information, and business plans.
 - Each party will: (a) use the other party’s Confidential Information only to perform under this Agreement; and (b) not disclose it to any third party except to employees, contractors, and advisors bound by obligations of confidentiality no less protective.
@@ -145,7 +200,7 @@ This Agreement, together with any SOWs, order forms, and incorporated documents,
 
 ---
 
-## 15. Notices
+## 18. Notices
 
 - Notices must be in writing and deemed given when delivered by personal delivery, reputable courier, certified mail (return receipt requested), or email.
 - Notices to Company: Rising Orchards LLC d/b/a IgorBox, 128 Orange Ave, Daytona Beach, FL 32114; Email: help@igorbox.com.
@@ -153,43 +208,43 @@ This Agreement, together with any SOWs, order forms, and incorporated documents,
 
 ---
 
-## 16. Export Control and Sanctions
+## 19. Export Control and Sanctions
 
 Customer agrees to comply with all applicable export control, sanctions, and anti-boycott laws, including those of the United States and any other relevant jurisdictions. Customer will not export, re-export, or transfer the products, software, or technology to any prohibited countries, entities, or end users, or for any prohibited end uses (including weapons proliferation or military end use in embargoed regions).
 
 ---
 
-## 17. Force Majeure
+## 20. Force Majeure
 
 Neither party will be liable for any delay or failure to perform due to events beyond its reasonable control, including acts of God, natural disasters, war, terrorism, labor actions, utility or telecommunications outages, governmental action, or supply chain disruptions. Payment obligations are not excused. The affected party will use reasonable efforts to mitigate the impact and resume performance.
 
 ---
 
-## 18. Order of Precedence
+## 21. Order of Precedence
 
 In the event of conflict between documents, the following order of precedence applies (highest to lowest): (1) an order form or SOW (but only for the particular transaction described therein), (2) this Agreement, and (3) referenced policies.
 
 ---
 
-## 19. Assignment and Subcontracting
+## 22. Assignment and Subcontracting
 
 Neither party may assign this Agreement without the other party’s prior written consent, except either party may assign without consent to an affiliate or in connection with a merger, acquisition, corporate reorganization, or sale of substantially all assets. We may use subcontractors to deliver Services and remain responsible for their performance.
 
 ---
 
-## 20. Publicity
+## 23. Publicity
 
 Neither party may use the other’s name, logo, or trademarks for publicity without prior written consent. Notwithstanding the foregoing, either party may disclose the existence of this commercial relationship where required by law.
 
 ---
 
-## 21. Independent Contractors
+## 24. Independent Contractors
 
 The parties are independent contractors. This Agreement does not create a partnership, franchise, joint venture, agency, fiduciary, or employment relationship between the parties.
 
 ---
 
-## 22. General Provisions
+## 25. General Provisions
 
 - Severability: If any provision is unenforceable, the remainder will remain in effect.
 - Waiver: A waiver must be in writing; failure to enforce is not a waiver.

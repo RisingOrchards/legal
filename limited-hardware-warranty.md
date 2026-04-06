@@ -1,6 +1,6 @@
 # Limited Hardware Warranty
 
-**Effective Date:** September 1, 2025
+**Effective Date:** April 6, 2026
 
 This Limited Hardware Warranty ("Warranty") applies to IgorBox-branded hardware products purchased directly from **IgorBox.com** or an authorized IgorBox reseller by the original purchaser ("you"). This Warranty supplements, and is subject to, the IgorBox Terms and Conditions.
 
@@ -31,7 +31,7 @@ These remedies are your exclusive remedies under this Warranty.
 This Warranty does not cover damage or defects resulting from:
 
 - Installation or operation of non‑IgorBox firmware, bypassing or disabling secure boot, bootloader modifications, or any unauthorized modification of software or hardware.
-- Misuse, neglect, accident, improper installation, improper storage, exposure to extreme environmental conditions, or operation outside documented specifications.
+- Misuse, neglect, accident, improper installation (including all electrical wiring, connections, and failure to comply with applicable electrical codes), improper storage, exposure to extreme environmental conditions, or operation outside documented specifications.
 - Normal wear and tear (including cosmetic damage), consumables, or accessories not supplied by IgorBox.
 - Use with third‑party components or accessories that are not approved by IgorBox.
 - Electrical stress, power surges, liquid contact, fire, or other external causes beyond IgorBox’s reasonable control.
@@ -68,7 +68,9 @@ All returned products are subject to inspection. If a returned product is found 
 
 EXCEPT AS EXPRESSLY PROVIDED ABOVE AND TO THE MAXIMUM EXTENT PERMITTED BY LAW, IGORBOX DISCLAIMS ALL OTHER WARRANTIES, EXPRESS OR IMPLIED, INCLUDING IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON‑INFRINGEMENT. IGORBOX IS NOT LIABLE FOR INDIRECT, INCIDENTAL, SPECIAL, PUNITIVE, OR CONSEQUENTIAL DAMAGES. THE LIABILITY LIMITATIONS IN THE IGORBOX TERMS AND CONDITIONS APPLY.
 
-This Warranty does not apply to safety‑critical or high‑risk use cases without IgorBox’s prior written consent.
+This Warranty does not apply to safety‑critical or high‑risk use cases without IgorBox’s prior written consent. The products are not designed, manufactured, or intended for use in life safety systems, emergency systems, medical devices, critical infrastructure, or any application where failure could result in death, personal injury, or severe property damage.
+
+Customer is solely responsible for the proper installation, configuration, and use of all hardware products, including all electrical wiring and connections, compliance with applicable electrical codes, use of appropriate power sources and fusing, and ensuring installation is performed by qualified personnel where required.
 
 ---
 
@@ -88,5 +90,3 @@ This Warranty is governed by the IgorBox Terms and Conditions and applicable law
 
 **Email:** help@igorbox.com  
 **Address:** Rising Orchards LLC d/b/a IgorBox, 128 Orange Ave, Daytona Beach, FL 32114
-
-

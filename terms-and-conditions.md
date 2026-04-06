@@ -1,6 +1,6 @@
 # Terms and Conditions
 
-**Effective Date:** September 1, 2025
+**Effective Date:** April 6, 2026
 
 Welcome to **IgorBox.com** (“Website”), operated by **Rising Orchards LLC** (“Company,” “we,” “our,” “us”).  
 These Terms and Conditions (“Terms”) govern your access to and use of our website, products, services, and any associated hardware or software (collectively, “Services”).
@@ -53,6 +53,18 @@ You agree **not** to:
 - Circumvent licensing restrictions or security measures.
 - Deploy IgorBox devices or software in safety-critical applications without our written approval.
 
+### 5.1 Non-Safety-Critical Use
+
+The products are not designed, manufactured, or intended for use in:
+
+- Life safety systems
+- Emergency systems
+- Medical devices
+- Critical infrastructure
+- Any application where failure could result in death, personal injury, or severe property damage
+
+You agree not to use the products in such applications without prior written approval from Rising Orchards, LLC.
+
 ---
 
 ## 6. Hardware and Firmware Usage
@@ -62,6 +74,15 @@ You agree **not** to:
 6.2 **Official Firmware Requirement** – You may only operate IgorBox hardware with firmware provided and signed by IgorBox. Installing or attempting to install unauthorized firmware, bypass secure boot, or modify bootloaders is prohibited.
 
 6.3 **Warranty Impact** – Any tampering, modification, or use of non-IgorBox firmware may void your warranty, terminate associated software licenses, and may be a violation of applicable intellectual property laws.
+
+6.5 **Misuse and Unauthorized Modifications** – Any of the following will void all warranties and may limit or eliminate liability:
+
+- Use outside of documented specifications
+- Unauthorized modifications or repairs
+- Improper environmental conditions (temperature, humidity, dust, vibration, etc.)
+- Integration with incompatible or unsafe systems
+
+Rising Orchards shall not be responsible for any resulting damage, injury, or loss.
 
 6.4 **Firmware Updates** – Firmware updates are distributed by IgorBox via secure, authenticated channels. You are responsible for installing updates when recommended to maintain device security and performance.
 
@@ -95,42 +116,78 @@ No personally identifiable information (PII) will be used for model training wit
 
 ---
 
-## 10. Warranties and Disclaimers
+## 10. Installation, Wiring, and Compliance Responsibility
 
-- Hardware is warranted against manufacturing defects for **12 months** from delivery.
-- Software is provided **“as is”** without warranties of any kind.
-- We do not guarantee uninterrupted operation, error-free performance, or compatibility with all systems.
+You are solely responsible for the proper installation, configuration, and use of all hardware products. This includes, but is not limited to:
+
+- All electrical wiring and connections
+- Compliance with applicable local, state, and national electrical codes and regulations
+- Use of appropriate power sources, fusing, and safety mechanisms
+- Ensuring that installation is performed by qualified personnel where required
+
+Rising Orchards, LLC (d/b/a IgorBox) is not responsible for any damage, injury, or loss resulting from improper installation, wiring, configuration, or use of the products.
 
 ---
 
-## 11. Limitation of Liability
+## 11. Assumption of Risk
+
+You acknowledge that the products may interface with electrical systems, mechanical systems, and other equipment that carry inherent risks, including but not limited to property damage, equipment failure, or personal injury.
+
+By using the products, you assume all risks associated with such use, except to the extent caused directly by a proven defect in the product itself.
+
+---
+
+## 12. Warranties and Disclaimers
+
+- Hardware is warranted against manufacturing defects for **12 months** from delivery.
+- Software, firmware, and cloud-based services are provided **”as is”** and **”as available”** without warranties of any kind.
+- We do not guarantee uninterrupted operation, error-free performance, or compatibility with all systems.
+- To the maximum extent permitted by law, Rising Orchards disclaims all implied warranties for software and services, including but not limited to merchantability, fitness for a particular purpose, and non-infringement.
+- Hardware components are subject to the limited warranty explicitly provided in our Limited Hardware Warranty.
+
+---
+
+## 13. Exclusive Remedy
+
+To the maximum extent permitted by law, your sole and exclusive remedy for any claim arising out of or relating to the products or services shall be limited to one of the following, at Rising Orchards' sole discretion:
+
+- Repair of the defective product
+- Replacement of the defective product
+- Refund of the amount actually paid for the product or service
+
+No other remedies, damages, or claims shall be available.
+
+---
+
+## 14. Limitation of Liability
 
 To the fullest extent permitted by law:
 
-- We are not liable for indirect, incidental, or consequential damages.
-- Our maximum total liability will not exceed the amount paid by you for the applicable product or service.
+- We are not liable for indirect, incidental, special, punitive, or consequential damages, including but not limited to loss of profits, data, or business opportunity.
+- Our maximum total liability will not exceed the amount paid by you for the specific product or service giving rise to the claim.
+- Any limitation of liability applies on a per-claim basis and regardless of the number of claims or legal theories asserted.
 
 ---
 
-## 12. Indemnification
+## 15. Indemnification
 
 You agree to indemnify and hold harmless Rising Orchards LLC from claims, damages, and expenses arising from your use of the Services or violation of these Terms.
 
 ---
 
-## 13. Termination
+## 16. Termination
 
 We may suspend or terminate your access if you violate these Terms. Upon termination, your rights under any license will immediately end.
 
 ---
 
-## 14. Governing Law
+## 17. Governing Law
 
 These Terms are governed by the laws of the State of **Florida, USA**, without regard to conflict of law principles.
 
 ---
 
-## 15. Binding Arbitration and Class Action Waiver
+## 18. Binding Arbitration and Class Action Waiver
 
 Please read this section carefully. It affects your rights.
 
@@ -141,19 +198,19 @@ Please read this section carefully. It affects your rights.
 
 ---
 
-## 16. Export Controls and Sanctions
+## 19. Export Controls and Sanctions
 
 You agree to comply with all applicable export control and sanctions laws and regulations, including those of the United States and other relevant jurisdictions. You will not export, re-export, or transfer the Services or related technical data to any prohibited countries, entities, or end users, or for any prohibited end uses.
 
 ---
 
-## 17. Changes to Terms
+## 20. Changes to Terms
 
 We may update these Terms from time to time. Changes will be posted on our Website, and your continued use of the Services indicates acceptance of the updated Terms.
 
 ---
 
-## 18. Contact Us
+## 21. Contact Us
 
 For questions about these Terms, contact:  
 **Email:** help@igorbox.com  

@@ -70,5 +70,3 @@ Replaced parts become the property of IgorBox. Replacement hardware may contain 
 
 **Email:** help@igorbox.com  
 **Address:** Rising Orchards LLC d/b/a IgorBox, 128 Orange Ave, Daytona Beach, FL 32114
-
-

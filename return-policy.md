@@ -1,13 +1,13 @@
-# 90-Day Return Policy
+# 30-Day Return Policy
 
-**Effective Date:** September 1, 2025
+**Effective Date:** April 19, 2026
 This Return Policy applies to purchases made directly from **IgorBox.com** or authorized IgorBox resellers.
 
 ---
 
 ## 1. Eligibility for Returns
 
-We want you to be completely satisfied with your IgorBox purchase. If you are not, you may request a return within **90 calendar days** from the date of delivery, subject to the conditions below.
+We want you to be completely satisfied with your IgorBox purchase. If you are not, you may request a return within **30 calendar days** from the date of delivery, subject to the conditions below.
 
 To be eligible for a return:
 

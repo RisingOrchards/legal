@@ -1,6 +1,6 @@
 # Limited Hardware Warranty
 
-**Effective Date:** April 6, 2026
+**Effective Date:** April 19, 2026
 
 This Limited Hardware Warranty ("Warranty") applies to IgorBox-branded hardware products purchased directly from **IgorBox.com** or an authorized IgorBox reseller by the original purchaser ("you"). This Warranty supplements, and is subject to, the IgorBox Terms and Conditions.
 
@@ -9,7 +9,7 @@ This Limited Hardware Warranty ("Warranty") applies to IgorBox-branded hardware 
 ## 1. Warranty Coverage and Period
 
 - IgorBox warrants that its hardware products will be free from defects in materials and workmanship under normal use in accordance with published documentation for **12 months** from the date of delivery.
-- Dead on Arrival ("DOA"): If your product fails within **30 days** of delivery, IgorBox will, at its option, provide an advance replacement or exchange.
+- Dead on Arrival ("DOA"): If your product fails within **30 days** of delivery, IgorBox will, at its option, provide an advance replacement or exchange (stock allowing).
 - Any replacement hardware may be new or refurbished and is warranted for the longer of: (a) the remainder of the original warranty period; or (b) 90 days from the replacement shipment date.
 
 ---

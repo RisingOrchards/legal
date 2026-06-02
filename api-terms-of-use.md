@@ -1,4 +1,4 @@
-# IgorBox API Terms of Use
+# API Terms of Use
 
 **Effective Date:** June 1, 2026
 
@@ -32,7 +32,7 @@ By generating, requesting, or using API Credentials, or by making any call to th
 - (a) operate IgorBox hardware, software, and accounts that belong to you or that you have been authorized to manage; and
 - (b) build and operate Applications that interoperate with the IgorBox Studio platform on behalf of yourself or your End Users.
 
-2.3 **Reservation of Rights** — All rights not expressly granted in these API Terms are reserved by Rising Orchards LLC. No license is granted by implication, estoppel, or otherwise. The API, all endpoints, schemas, protocols, response structures, and supporting documentation are and remain our intellectual property.
+  2.3 **Reservation of Rights** — All rights not expressly granted in these API Terms are reserved by Rising Orchards LLC. No license is granted by implication, estoppel, or otherwise. The API, all endpoints, schemas, protocols, response structures, and supporting documentation are and remain our intellectual property.
 
 ---
 
@@ -65,9 +65,9 @@ By generating, requesting, or using API Credentials, or by making any call to th
 - coordinating with other API users to share quota; or
 - any other technique designed to obtain access beyond what your subscription tier permits.
 
-4.4 **Caching and Efficiency** — You must design your API Client to use the API efficiently. This includes respecting cache headers, avoiding unnecessary polling for data that changes infrequently, using webhook subscriptions or change feeds where provided in lieu of polling, and avoiding requests for data you do not need.
+  4.4 **Caching and Efficiency** — You must design your API Client to use the API efficiently. This includes respecting cache headers, avoiding unnecessary polling for data that changes infrequently, using webhook subscriptions or change feeds where provided in lieu of polling, and avoiding requests for data you do not need.
 
-4.5 **Overage Charges** — Where overage pricing is published for your subscription tier, calls in excess of included quota may be billed at the published rate. We may suspend API access if overage charges exceed reasonable limits; except in cases of suspected abuse, we will notify the contact on your account before suspending access on this basis.
+  4.5 **Overage Charges** — Where overage pricing is published for your subscription tier, calls in excess of included quota may be billed at the published rate. We may suspend API access if overage charges exceed reasonable limits; except in cases of suspected abuse, we will notify the contact on your account before suspending access on this basis.
 
 ---
 
@@ -87,7 +87,7 @@ By generating, requesting, or using API Credentials, or by making any call to th
 - **(j) Misrepresent identity.** Misrepresent yourself, your Application, or your End Users to us or to other API users, including by spoofing User-Agent strings or falsifying request metadata.
 - **(k) Violate law or rights.** Use the API to violate any applicable law, infringe any third-party right, or facilitate any unlawful activity.
 
-5.2 **Compliance Across the Stack** — You are responsible for ensuring that your Application, your End Users, and anyone you authorize to use your API Credentials comply with these API Terms. Violations by your End Users are treated as violations by you.
+  5.2 **Compliance Across the Stack** — You are responsible for ensuring that your Application, your End Users, and anyone you authorize to use your API Credentials comply with these API Terms. Violations by your End Users are treated as violations by you.
 
 ---
 
@@ -174,9 +174,9 @@ For such systems, all triggering, interlocks, watchdogs, and emergency-stop logi
 - (e) we are required to do so by law, court order, or governmental authority; or
 - (f) you have failed to pay amounts owed to us when due.
 
-12.3 **Emergency Action** — For suspected security incidents or active abuse, we may suspend access immediately and provide notice afterward.
+  12.3 **Emergency Action** — For suspected security incidents or active abuse, we may suspend access immediately and provide notice afterward.
 
-12.4 **Investigation** — You agree to reasonably cooperate with our investigations of suspected violations, including by promptly responding to inquiries about your API usage.
+  12.4 **Investigation** — You agree to reasonably cooperate with our investigations of suspected violations, including by promptly responding to inquiries about your API usage.
 
 ---
 
@@ -213,7 +213,7 @@ For such systems, all triggering, interlocks, watchdogs, and emergency-stop logi
 - (c) delete cached or stored API responses that contain Customer Content of End Users whose authorization has ended, within a commercially reasonable period; and
 - (d) cease holding yourself out as integrated with, or compatible with, the IgorBox platform.
 
-15.3 **Survival** — Sections 1, 3.3, 5, 6, 8, 13, 14.2, 15.2, 15.3, 16, 17, 18, 19, 20, and 21 of these API Terms, together with all surviving provisions of the Main Terms, survive any termination.
+  15.3 **Survival** — Sections 1, 3.3, 5, 6, 8, 13, 14.2, 15.2, 15.3, 16, 17, 18, 19, 20, and 21 of these API Terms, together with all surviving provisions of the Main Terms, survive any termination.
 
 ---
 

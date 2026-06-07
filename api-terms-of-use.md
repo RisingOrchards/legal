@@ -1,6 +1,6 @@
 # API Terms of Use
 
-**Effective Date:** June 1, 2026
+**Effective Date:** June 7, 2026
 
 These API Terms of Use ("**API Terms**") govern your access to and use of the application programming interfaces, developer endpoints, webhooks, SDKs, sample code, and related developer documentation (collectively, the "**API**") made available by **Rising Orchards LLC** d/b/a **IgorBox** ("**Company**," "**we**," "**our**," "**us**") as part of the IgorBox Studio platform.
 
@@ -77,7 +77,7 @@ By generating, requesting, or using API Credentials, or by making any call to th
 
 - **(a) Reverse engineer.** Use the API, its responses, or its behavior to reverse engineer, decompile, disassemble, or attempt to derive the source code, internal data models, proprietary algorithms, firmware, hardware protocols, or trade secrets of any IgorBox product or service.
 - **(b) Build a competing product.** Use the API, the data returned by it, or any insight gained from observing it, to design, develop, train, or operate any product or service that competes with IgorBox Studio, IgorBox hardware, or any IgorBox cloud service.
-- **(c) Train AI/ML models.** Use API responses or Customer Content obtained through the API to train, fine-tune, evaluate, or improve any machine learning model, large language model, or AI system, except for models used solely within your own Application to serve your own End Users in connection with the IgorBox platform.
+- **(c) Train AI/ML models.** Use API responses or Customer Content obtained through the API to train, fine-tune, evaluate, build, or improve any machine learning model, large language model, or AI system, or to assemble training or evaluation corpora or other derivative datasets, except for models used solely within your own Application to serve your own End Users in connection with the IgorBox platform. For the avoidance of doubt, this subsection does not prohibit an End User from connecting an AI assistant or agent that the End User has authorized via OAuth (including through the Model Context Protocol) to access and operate that End User's own Customer Content in real time, at the End User's direction, for the purpose of using the IgorBox platform, provided that such Customer Content is used only to serve that End User and is not retained or used by the AI client or its provider to train, fine-tune, evaluate, or improve any model.
 - **(d) Scrape or harvest.** Bulk-extract, scrape, mirror, archive, or otherwise harvest data from the API beyond what is reasonably necessary to operate your Application for its documented purpose. The API is not a data export channel except where we have documented an endpoint as such.
 - **(e) Access other users' data.** Attempt to access, view, infer, or interact with accounts, devices, Customer Content, or API Credentials belonging to any other IgorBox customer or End User without their authorization.
 - **(f) Automate account creation.** Use the API to create user accounts, devices, or other resources programmatically except through endpoints we have documented for that purpose.

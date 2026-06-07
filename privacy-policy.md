@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Effective Date:** September 1, 2025
+**Effective Date:** June 7, 2026
 
 This Privacy Policy explains how **Rising Orchards LLC** (“Company,” “we,” “our,” “us”) collects, uses, and protects your information when you use **IgorBox.com** and our related products and services (collectively, “Services”).
 
@@ -56,6 +56,14 @@ We may use **anonymized** or **aggregated** data from your usage of the Services
 - Enhance product features and security.
 
 **No personally identifiable information (PII)** will be used to train AI models without your explicit consent. We maintain and use deidentified and aggregated data and will not attempt to reidentify such data, and we require service providers to do the same.
+
+---
+
+## 3A. Third-Party AI & Integration Access
+
+You may choose to connect third-party AI assistants or clients (for example, Claude or ChatGPT) to your Studio through the IgorBox MCP server or API. When you do, the data those tools return — which may include identifiable account information and Studio content (such as shows, controllers, media, and logic rules) — is transmitted to and processed by that client and its AI provider, at your direction and subject to that provider's own terms and privacy policy.
+
+This access is authorized through OAuth, limited to the scopes you grant, and can be revoked by you at any time. We do not control how third-party AI providers handle your data once it has been disclosed to them, and you should review the connected provider's policies before authorizing access.
 
 ---
 

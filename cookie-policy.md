@@ -1,6 +1,6 @@
 # Cookie Policy
 
-**Effective Date:** September 1, 2025
+**Effective Date:** June 21, 2026
 
 This Cookie Policy explains how Rising Orchards LLC d/b/a IgorBox ("IgorBox", "we", "us") uses cookies and similar technologies on our websites and services.
 
@@ -16,7 +16,7 @@ Cookies are small text files placed on your device that help websites function, 
 
 - Strictly necessary: Required for core functionality (e.g., login, session management, security).
 - Functional: Remember choices and preferences (e.g., language, region).
-- Performance/Analytics: Help us understand usage and improve our services (e.g., page performance, feature adoption).
+- Performance/Analytics: Help us understand usage and improve our services (e.g., page performance, feature adoption, and session recording/replay used for debugging and observability).
 - Advertising/Marketing: Measure campaigns and, where applicable, tailor content. We do not enable cross‑context behavioral advertising without consent where required.
 
 ---

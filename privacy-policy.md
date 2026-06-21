@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Effective Date:** June 7, 2026
+**Effective Date:** June 21, 2026
 
 This Privacy Policy explains how **Rising Orchards LLC** (“Company,” “we,” “our,” “us”) collects, uses, and protects your information when you use **IgorBox.com** and our related products and services (collectively, “Services”).
 
@@ -14,7 +14,7 @@ We may collect:
 
 - **Personal Information**: Name, email address, billing details, shipping address, phone number, account credentials.
 - **Technical Information**: IP address, browser type, operating system, device identifiers.
-- **Usage Data**: Interactions with our website, API requests, device telemetry.
+- **Usage Data**: Interactions with our website, API requests, device telemetry, and session activity captured through session recording/replay and observability technologies (e.g., pages and screens viewed, clicks, taps, scrolling, navigation paths, errors, and performance metrics).
 - **Support Information**: Messages, tickets, or communications you send to us.
 
 ---
@@ -25,7 +25,7 @@ The categories of personal information we collect, the business or commercial pu
 
 - Identifiers (e.g., name, email, IP address): account creation, service delivery, security/fraud prevention; not sold/shared for cross-context behavioral advertising.
 - Commercial information (e.g., orders, transactions): order fulfillment, support, accounting; not sold/shared.
-- Internet/Network activity (e.g., device telemetry, analytics): security, performance, product improvement; not sold/shared for cross-context behavioral advertising.
+- Internet/Network activity (e.g., device telemetry, analytics, session recordings): security, performance, debugging, product improvement; not sold/shared for cross-context behavioral advertising.
 - Geolocation (coarse, from IP): security, fraud prevention; not sold/shared.
 - Inferences (non-PII, aggregated for analytics): product improvement; not sold/shared.
 
@@ -44,6 +44,20 @@ We use your information to:
 - Ensure security and prevent fraud.
 
 Legal bases for processing (EEA/UK): contract performance; legitimate interests (security, product improvement, communications); consent (where required, e.g., certain cookies/marketing); legal obligations.
+
+---
+
+## 2A. Session Recording, Logging, and Observability
+
+We and our service providers use session recording (also called session replay), logging, and observability technologies to capture how users interact with our Services. These tools may record information such as pages and screens viewed, clicks, taps, scrolling, navigation paths, page content, errors, performance metrics, and related device and network information. We use this information to:
+
+- Diagnose, debug, and resolve technical issues and errors.
+- Monitor the performance, reliability, and security of our Services (observability).
+- Understand how features are used so we can improve them.
+
+This information is processed by us and by third-party observability and session-recording providers acting as our service providers under contracts that require appropriate confidentiality and data-protection obligations. We do not use session recordings to build advertising profiles or for cross-context behavioral advertising.
+
+Where required by law, we obtain consent before deploying these technologies, and you can manage your choices as described in our Cookie Policy.
 
 ---
 
@@ -82,7 +96,7 @@ We may disclose deidentified or aggregated data that does not identify you. We u
 
 ## 5. Data Retention
 
-We retain personal information only as long as necessary to fulfill the purposes described in this Privacy Policy, unless a longer retention period is required by law. Retention periods vary by category (e.g., account records for as long as you maintain an account; transaction records for up to 7 years for tax/accounting; telemetry logs for up to 24 months), after which we delete or deidentify data. If you close your account or request deletion, we delete active copies within 30 days and purge backups on a rolling schedule within 90 days thereafter. We may retain minimal logs and records as required for security, fraud prevention, and legal obligations.
+We retain personal information only as long as necessary to fulfill the purposes described in this Privacy Policy, unless a longer retention period is required by law. Retention periods vary by category (e.g., account records for as long as you maintain an account; transaction records for up to 7 years for tax/accounting; telemetry, log, and session-recording data for up to 24 months), after which we delete or deidentify data. If you close your account or request deletion, we delete active copies within 30 days and purge backups on a rolling schedule within 90 days thereafter. We may retain minimal logs and records as required for security, fraud prevention, and legal obligations.
 
 ---
 

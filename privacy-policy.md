@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Effective Date:** June 21, 2026
+**Effective Date:** June 22, 2026
 
 This Privacy Policy explains how **Rising Orchards LLC** (“Company,” “we,” “our,” “us”) collects, uses, and protects your information when you use **IgorBox.com** and our related products and services (collectively, “Services”).
 
@@ -58,6 +58,14 @@ We and our service providers use session recording (also called session replay),
 This information is processed by us and by third-party observability and session-recording providers acting as our service providers under contracts that require appropriate confidentiality and data-protection obligations. We do not use session recordings to build advertising profiles or for cross-context behavioral advertising.
 
 Where required by law, we obtain consent before deploying these technologies, and you can manage your choices as described in our Cookie Policy.
+
+---
+
+## 2B. SMS / Text Messaging
+
+IgorBox, operated by Rising Orchards LLC, offers SMS notifications about your account, device telemetry, orders, and setup status. You opt in by enabling the “SMS Notifications” toggle in your IgorBox account settings; messages are sent only after you enable it. Message frequency varies. Message and data rates may apply. Reply STOP to opt out at any time, or HELP for help.
+
+No mobile information — including your phone number and your SMS opt-in and consent — will be sold or shared with any third parties or affiliates for marketing or promotional purposes. We disclose your phone number only to the messaging service provider that delivers these texts on our behalf, solely to send the messages you requested. Text-messaging originator opt-in data and consent are not shared with any third parties.
 
 ---
 

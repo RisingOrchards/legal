@@ -1,6 +1,6 @@
 # Terms and Conditions
 
-**Effective Date:** April 6, 2026
+**Effective Date:** June 22, 2026
 
 Welcome to **IgorBox.com** (“Website”), operated by **Rising Orchards LLC** (“Company,” “we,” “our,” “us”).  
 These Terms and Conditions (“Terms”) govern your access to and use of our website, products, services, and any associated hardware or software (collectively, “Services”).
@@ -98,6 +98,12 @@ We may also collect and process **anonymized** or **aggregated** data derived fr
 - Enhance product features and security.
 
 No personally identifiable information (PII) will be used for model training without your explicit consent.
+
+---
+
+## 7A. SMS / Text Messaging Terms
+
+By enabling SMS Notifications in your IgorBox account, you consent to receive recurring automated text messages from Rising Orchards LLC (IgorBox) about your account, device telemetry, orders, and setup status. Consent is not a condition of purchase. Message frequency varies. Message and data rates may apply. Reply STOP to cancel at any time; after you send STOP we will send one confirmation message and no further texts. Reply HELP for help, or contact help@igorbox.com. Carriers are not liable for delayed or undelivered messages. Mobile opt-in information is not shared with third parties except the messaging provider that delivers these texts on our behalf.
 
 ---
 
